@@ -1,3 +1,4 @@
+/*
 package com.example.demo;
 
 import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
@@ -39,3 +40,4 @@ public class Oauth2Configuration  extends WebSecurityConfigurerAdapter {
 	    return new CorsFilter(source);
 	}
 }
+*/
